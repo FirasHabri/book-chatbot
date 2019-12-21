@@ -1,4 +1,4 @@
-<img src="/logo.jpg" width="250" />
+[image!](https://drive.google.com/open?id=1tirO0Dem7ChNq0ApzNJaVAu-9lnseqfx)
 # AIPLA an Artificial Intelligent powered Library Assistant
 AIPLA is a Messenger chat-bot using Natural language processing and Deep learning build in Python to find, search and recommend books for various users, based on their taste of music and past searches.
 
