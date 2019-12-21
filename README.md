@@ -4,8 +4,8 @@ AIPLA is a Messenger chat-bot using Natural language processing and Deep learnin
 
 ## Screenshots :
 <p float="left">
-  <img src="/1.jpg" width="500" />
-  <img src="/2.jpg" width="500" /> 
+  <img src="/1.jpg" width="250" />
+  <img src="/2.jpg" width="250" /> 
 </p>
 
 ## Pre-requisites : 
