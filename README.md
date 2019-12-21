@@ -2,5 +2,5 @@
 AIPLA is a Messenger chat-bot using NLP and DL to find, search and recommend books for various users, based on their taste of music and past searches.
 
 ## Screenshots
-<img src="https://github.com/FirasHabri/book-chatbot/blob/master/1.jpg?raw=true" width="320" style="float:left;">
-<img src="https://github.com/FirasHabri/book-chatbot/blob/master/2.jpg?raw=true" width="320">
+![alt-text-1](1.jpg "title-1") ![alt-text-2](2.jpg "title-2")
+
