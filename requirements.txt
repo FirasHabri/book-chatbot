@@ -15,7 +15,7 @@ Jinja2==2.10
 Markdown==2.6.11
 MarkupSafe==1.0
 nltk==3.3
-numpy==1.14.5
+numpy==1.22.0
 protobuf==3.6.0
 pymessenger==0.0.7.0
 requests==2.19.1
